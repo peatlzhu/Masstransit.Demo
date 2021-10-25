@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="masstransit" Version="5.1.4" />
+    <PackageReference Include="masstransit.rabbitmq" Version="5.1.4" />
+  </ItemGroup>
+
+</Project>
